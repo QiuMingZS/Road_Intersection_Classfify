@@ -1,8 +1,8 @@
 # Road_Intersection_Classfify
 Using CNN to classify road intersections, including datasets prepare and image operation
-> Author: To_Fourier, CiWei
 
-> Maybe as you guessed, To_Fourier is another name of QiuMingZS. 
+* TensorFlow Version: 1.12.0
+> Author: To_Fourier, CiWei. Maybe as you guessed, To_Fourier is another name of QiuMingZS. 
 
 ## 1.Project Description:
 This project is designed for classification of 9 road intersections. As you know, there are many directions of an intersection and the view is quite different. Thus, according to the type of intersections, we devide each intersection into several child-class in order to improve the classification accuracy.
